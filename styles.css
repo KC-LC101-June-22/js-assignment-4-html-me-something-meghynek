@@ -1,5 +1,22 @@
 /* Write your CSS here! */
-p {
-font-size: medium;
-background-image: url("image/cat_background.png");
+body {
+font-size: 14 px;
+font-family: 'Quicksand', sans-serif;
+}
+h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+  h2 {
+    font: 400 130px/0.8 'Cookie', Helvetica, sans-serif;
+    color: darkblue;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+  }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 8px;
+    margin-inline-end: 8px;
 }
