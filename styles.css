@@ -7,8 +7,7 @@
 }
 
 body {
-  font-size: 16px;
-  font-family: 'Quicksand', sans-serif;
+background-color: lightpink;
 }
 
 /* h1 {
@@ -29,4 +28,6 @@ p {
   it margin-block-end: 1em;
   margin-inline-start: 8px;
   margin-inline-end: 8px;
+  font-size: 16px;
+  font-family: 'Quicksand', sans-serif;
 }
