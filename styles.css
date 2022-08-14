@@ -1,1 +1,5 @@
 /* Write your CSS here! */
+p {
+font-size: medium;
+background-image: url("image/cat_background.png");
+}
