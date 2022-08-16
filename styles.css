@@ -2,14 +2,20 @@
 #mainHeading {
   color: red;
   size: 48px;
-  font-family:'Tangerine', serif;
+  font-family: 'Tangerine', serif;
   text-shadow: 4px 4px 4px #aaa;
 }
+
 .funParagraph {
   color: green;
 }
+
 body {
-background-color: lightpink;
+  background-color: lightpink;
+  display: block;
+  margin-block-end: 1em;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
 }
 
 /* h1 {
@@ -34,6 +40,7 @@ p {
   font-size: 18px;
   font-family: 'Quicksand', sans-serif;
 }
+
 img {
   border-radius: 50%;
   display: block;
@@ -41,5 +48,4 @@ img {
   margin-right: auto;
   height: auto;
   width: 300px;
-
 }
