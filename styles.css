@@ -4,6 +4,8 @@
   size: 48px;
   font-family: 'Tangerine', serif;
   text-shadow: 4px 4px 4px #aaa;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
 }
 
 .funParagraph {
