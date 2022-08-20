@@ -1,1 +1,53 @@
 /* Write your CSS here! */
+#mainHeading {
+  color: red;
+  size: 48px;
+  font-family: 'Tangerine', serif;
+  text-shadow: 4px 4px 4px #aaa;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
+}
+
+.funParagraph {
+  color: green;
+}
+
+body {
+  background-color: lightpink;
+  display: block;
+  margin-block-end: 1em;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
+}
+
+/* h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+} */
+
+h2 {
+  font-family: 'Dancing Script';
+  color: darkblue;
+  text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.1);
+  font-size: 36px;
+  margin-inline-start: 16px;
+}
+
+p {
+  display: block;
+  margin-block-end: 1em;
+  margin-inline-start: 8px;
+  margin-inline-end: 8px;
+  font-size: 18px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 300px;
+}
